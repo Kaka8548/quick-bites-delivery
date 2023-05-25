@@ -1,0 +1,159 @@
+{
+  "restaurants": [
+    {
+      "name": "Ukrainska Kolyba",
+      "menu": [
+        {
+          "title": "Borshch",
+          "price": 75,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Vareniki z kartopleyu",
+          "price": 60,
+          "image": "https://placehold.co/200x250"
+        },
+        {
+          "title": "Salo",
+          "price": 40,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Holubtsi",
+          "price": 80,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Syrniki",
+          "price": 55,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Syrniki",
+          "price": 55,
+          "image": "https://placehold.co/200x150"
+        }
+      ]
+    },
+    {
+      "name": "Khutir Rozkish",
+      "menu": [
+        {
+          "title": "Sup z kurky",
+          "price": 70,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Pecheni hori-khy",
+          "price": 50,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Pampushky z chasnykom",
+          "price": 45,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Hrybna pidlyva",
+          "price": 65,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Mlyntsi z povidlom",
+          "price": 55,
+          "image": "https://placehold.co/200x150"
+        }
+      ]
+    },
+    {
+      "name": "Kozatska Khata",
+      "menu": [
+        {
+          "title": "Solyanka",
+          "price": 85,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Deruny",
+          "price": 70,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Salat Oliv'ye",
+          "price": 50,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Vareniki z hrybamy",
+          "price": 75,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Medovik",
+          "price": 60,
+          "image": "https://placehold.co/200x150"
+        }
+      ]
+    },
+    {
+      "name": "Hetmanska Kukhnya",
+      "menu": [
+        {
+          "title": "Ukha",
+          "price": 90,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Pampushky z kapustoyu",
+          "price": 55,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Salat Shuba",
+          "price": 65,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Kuryacha pechinka",
+          "price": 80,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Napoleon",
+          "price": 70,
+          "image": "https://placehold.co/200x150"
+        }
+      ]
+    },
+    {
+      "name": "Sichovyi Dvir",
+      "menu": [
+        {
+          "title": "Sup z hrybamy",
+          "price": 80,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Mlyntsi z syrom",
+          "price": 60,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Tsezar z kurkoyu",
+          "price": 70,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Kovbaska v smetani",
+          "price": 75,
+          "image": "https://placehold.co/200x150"
+        },
+        {
+          "title": "Medova nalivka",
+          "price": 75,
+          "image": "https://placehold.co/200x150"
+        }
+      ]
+    }
+  ]
+}
