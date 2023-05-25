@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/quick-bites-delivery/static/css/main.7acaea2f.css",
-    "main.js": "/quick-bites-delivery/static/js/main.07d3183d.js",
+    "main.css": "/quick-bites-delivery/static/css/main.e33023b0.css",
+    "main.js": "/quick-bites-delivery/static/js/main.1da7196a.js",
     "index.html": "/quick-bites-delivery/index.html",
-    "main.7acaea2f.css.map": "/quick-bites-delivery/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/quick-bites-delivery/static/js/main.07d3183d.js.map"
+    "main.e33023b0.css.map": "/quick-bites-delivery/static/css/main.e33023b0.css.map",
+    "main.1da7196a.js.map": "/quick-bites-delivery/static/js/main.1da7196a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e33023b0.css",
+    "static/js/main.1da7196a.js"
   ]
 }
